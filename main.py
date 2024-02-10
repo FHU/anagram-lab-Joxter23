@@ -19,4 +19,6 @@ if __name__ == '__main__':
     word2 = input()
 
     print(anagram(word1, word2))
+
+#comment
     
